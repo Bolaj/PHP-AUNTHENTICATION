@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o css/mystyle.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bolaj/Demowork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bolaj/Demowork/issues"
+  },
+  "homepage": "https://github.com/Bolaj/Demowork#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  }
+}
