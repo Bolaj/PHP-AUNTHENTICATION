@@ -1,9 +1,4 @@
-<?php
-session_start();
-include("connection.php");
-include("function.php");
-$user_data = check_login($con);
-?>
+
 <?php include 'header.php'; ?>
       <div class="containter">
           <div class="container col-lg-12">
