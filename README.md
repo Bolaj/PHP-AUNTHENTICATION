@@ -1,4 +1,4 @@
-# Demowork
+# PHP AUTHENTICATION APP
 So..this is my first sample project hosted on github.
 The project is a simple authentication application
 It contains About, Contact and Login/Register Pages
